@@ -7,3 +7,10 @@ Experiment 1 : Server and Clients are implemented in same jupyter notebooks
 Experiment 2: Server is implemented using Django and Clients are running on a jupyter notebook.
 
 Dataset: X-ray images dataset downloaded from Kaggle.
+
+Models:
+
+1. DarkNet : Trained the model from scratch. Architecture of the model is available at 
+2. ConvNext: Pretrained model. The model was pretrained on imagenet. We finetuned the model on Covid-19 Dataset.
+
+
